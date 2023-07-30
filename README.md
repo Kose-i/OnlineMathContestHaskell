@@ -1,0 +1,2 @@
+# OnlineMathContestHaskell
+Online Math ContestをHaskellで解いてみたやつです
